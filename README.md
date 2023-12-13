@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Memduh</h1>
 <h3 align="center">Bachelor's degree of Computer Engineering</h3>
 
-- 🔭 I’m currently working on **front-end web project**
+- 🔭 I’m currently working on **asp.net web project**
 
-- 🌱 I’m currently learning **java, react, redux**
+- 🌱 I’m currently learning **.netcore, react, abap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/memduhkislal](https://github.com/memduhkislal)
 
-- 💬 Ask me about **js, html, css, bootstrap, azure**
+- 💬 Ask me about **js, html, css, bootstrap, azure, .net**
 
 - 📫 How to reach me **memduhkislal97@hotmail.com**
 
